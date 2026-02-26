@@ -112,3 +112,10 @@ The dataset contains:
 **Hardik Pansuriya**  
 Senior Laravel Developer | Data Analysis Enthusiast  
 Transitioning into Data Analytics & Visualization
+
+
+# 📊 Sales Dashboard – Tableau (2023)
+
+## 📷 Dashboard Preview
+
+![Sales Dashboard 2023](Dashboard.png)
